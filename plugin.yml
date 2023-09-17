@@ -1,0 +1,9 @@
+name: ItemID
+version: "0.1"
+api: ["1.0.0"]
+main: net.eqozqq.ItemID.ItemID
+author: "eqozqq"
+description: "Shows the ID of the item in your hand"
+commands:
+  id:
+    description: Shows the ID of the item in your hand
